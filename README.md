@@ -26,7 +26,7 @@ It provides executives and analysts with insights into Revenue, Profitability, C
 - **GitHub** – Version control and project documentation
 
 ## 📸 Dashboard Preview
-![Financial Dashboard](images/Image.png)
+![Financial Dashboard](Image.png)
 
 ## Business Impact
 **This dashboard helps:**
